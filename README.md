@@ -11,9 +11,7 @@ Each lesson in this series is designed to be approachable and practical. Check o
 | 3          |  working  of python    | [Read on Medium](https://medium.com/@prathmeshatkare07/day-3-internal-working-with-python-d52823ed7f58) |
 
 
-.
 
-.
 
 How to Use This Series
 Each lesson builds on the previous one, so it's recommended to follow them in order. Each lesson includes examples and exercises to practice what you’ve learned. All you need is a Python installation, a comfortable place, and some chai!
