@@ -1,4 +1,4 @@
-Chai Aur Python ☕🐍
+**Chai Aur Python ☕🐍**
 Welcome to Chai aur Python, a series that combines the joy of sipping chai with the fun of learning Python! Whether you're a beginner or looking to deepen your Python skills, this series will guide you through Python concepts in a relaxed, conversational style. Grab your chai and start coding!
 
 Series Lessons
