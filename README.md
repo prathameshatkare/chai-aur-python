@@ -13,6 +13,9 @@ Each lesson in this series is designed to be approachable and practical. Check o
 | 1          | Introduction to Python | [Read on Medium](https://medium.com/@prathmeshatkare07/day-1-introduction-to-python-b7a50f33b1be) |
 | 2          | Installation of python | [Read on Medium](https://medium.com/@prathmeshatkare07/day-2-installation-of-python-5b1c005864df) |
 | 3          |  working  of python    | [Read on Medium](https://medium.com/@prathmeshatkare07/day-3-internal-working-with-python-d52823ed7f58) |
+| 4          |  Python Powershell     | [Read on Medium](https://medium.com/@prathmeshatkare07/day-4-91fd9d901cbb) |
+| 5          | Data Types                | [Read on Medium](https://medium.com/@prathmeshatkare07/day-5-68bb9457c208) |
+
 
 
 
